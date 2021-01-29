@@ -10,4 +10,5 @@
   -
   <a href="https://www.google.com"> Linkedin </a>
 </p>
-<h2> <h2/>
+<h2> </h2>
+<h4 align="center"> I am currently preparing to take the OSCP </h4>
